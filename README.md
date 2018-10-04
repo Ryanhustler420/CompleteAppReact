@@ -14,3 +14,9 @@
 ```
 create-react-app
 ```
+
+> after that extract css module than start app using
+
+```
+npm start
+```

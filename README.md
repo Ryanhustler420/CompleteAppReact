@@ -1,0 +1,10 @@
+## React Project Burger App
+
+#Planning a React App
+
+1.  Component Tree / Component Structure
+2.  Application State (Data)
+3.  Components Vs Containers
+
+
+> Design Image on the main. on 840

@@ -20,3 +20,5 @@ create-react-app
 ```
 npm start
 ```
+
+> if css module is not working than check out [here](https://stackoverflow.com/questions/50234890/how-to-use-css-modules-with-create-react-app)

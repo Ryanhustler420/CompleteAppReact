@@ -8,3 +8,9 @@
 
 
 > Design Image on the main. on 840
+
+> make a brand new project with:-
+
+```
+create-react-app
+```

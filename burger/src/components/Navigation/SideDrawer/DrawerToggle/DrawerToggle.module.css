@@ -1,0 +1,13 @@
+.Bar {
+    width: 35px;
+    height: 5px;
+    background-color: white;
+    display: none;
+    margin: 6px 0;
+}
+
+@media (max-width: 499px){
+    .Bar{
+        display: block;
+    }
+}

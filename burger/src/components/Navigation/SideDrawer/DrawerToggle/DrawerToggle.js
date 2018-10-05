@@ -1,5 +1,5 @@
 import React from 'react';
-import Aux from './../../../../hoc/Aux';
+import Aux from './../../../../hoc/auxiliary/Aux';
 import classes from './DrawerToggle.module.css';
 
 const drawerToggle = (props) => (

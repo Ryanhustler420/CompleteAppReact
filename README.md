@@ -26,3 +26,23 @@ npm start
 ```
 npm install props-types
 ```
+
+## after Handling Errors with HOC 
+
+# Retrieving Data from the Backend! 
+
+> create database in firebase for fetching data from server 
+
+```
+ ingredients
+ - bacon: 0
+ - cheese: 0
+ - meat: 0
+ - salad: 0
+
+```
+
+> and copy the url for that. that link will look like this 
+
+``https://burgerreact-48e01.firebaseio.com/ingredients``
+

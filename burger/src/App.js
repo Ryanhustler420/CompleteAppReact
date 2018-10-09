@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 
 import BurgerBuilder from './containers/BurgerBuilder/BurgerBuilder';
 import Layout from './hoc/Layout/Layout';
+import CheckOut from './containers/CheckOut/CheckOut';
 
 class App extends Component {
 
@@ -21,6 +22,7 @@ class App extends Component {
       <div>
         <Layout>
           <BurgerBuilder />
+          <CheckOut />
         </Layout>
       </div>
     );

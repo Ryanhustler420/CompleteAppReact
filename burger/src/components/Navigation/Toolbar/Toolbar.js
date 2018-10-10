@@ -7,7 +7,7 @@ import DrawerToggle from './../SideDrawer/DrawerToggle/DrawerToggle';
 
 const toolbar = (props) => (
     <header className={classes.Toolbar}>
-        <div onClick={props.ShowSideDrawer}>
+        <div onClick={props.ShowSideDrawer} className={classes.MobileOnly}>
             <DrawerToggle />
         </div>
         <div className={classes.Logo}>   
